@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519694853 source:e:\projects\cliper\main.cpp
+	<iostream>
+	<list>
+	<string>
+	<string.h>
+
